@@ -1,0 +1,16 @@
+C:\Users\dtattam\RiderProjects\HangManV2\HangManV2\bin\Debug\net5.0\HangManV2.exe
+C:\Users\dtattam\RiderProjects\HangManV2\HangManV2\bin\Debug\net5.0\HangManV2.deps.json
+C:\Users\dtattam\RiderProjects\HangManV2\HangManV2\bin\Debug\net5.0\HangManV2.runtimeconfig.json
+C:\Users\dtattam\RiderProjects\HangManV2\HangManV2\bin\Debug\net5.0\HangManV2.runtimeconfig.dev.json
+C:\Users\dtattam\RiderProjects\HangManV2\HangManV2\bin\Debug\net5.0\HangManV2.dll
+C:\Users\dtattam\RiderProjects\HangManV2\HangManV2\bin\Debug\net5.0\ref\HangManV2.dll
+C:\Users\dtattam\RiderProjects\HangManV2\HangManV2\bin\Debug\net5.0\HangManV2.pdb
+C:\Users\dtattam\RiderProjects\HangManV2\HangManV2\obj\Debug\net5.0\HangManV2.csproj.AssemblyReference.cache
+C:\Users\dtattam\RiderProjects\HangManV2\HangManV2\obj\Debug\net5.0\HangManV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtattam\RiderProjects\HangManV2\HangManV2\obj\Debug\net5.0\HangManV2.AssemblyInfoInputs.cache
+C:\Users\dtattam\RiderProjects\HangManV2\HangManV2\obj\Debug\net5.0\HangManV2.AssemblyInfo.cs
+C:\Users\dtattam\RiderProjects\HangManV2\HangManV2\obj\Debug\net5.0\HangManV2.csproj.CoreCompileInputs.cache
+C:\Users\dtattam\RiderProjects\HangManV2\HangManV2\obj\Debug\net5.0\HangManV2.dll
+C:\Users\dtattam\RiderProjects\HangManV2\HangManV2\obj\Debug\net5.0\ref\HangManV2.dll
+C:\Users\dtattam\RiderProjects\HangManV2\HangManV2\obj\Debug\net5.0\HangManV2.pdb
+C:\Users\dtattam\RiderProjects\HangManV2\HangManV2\obj\Debug\net5.0\HangManV2.genruntimeconfig.cache
